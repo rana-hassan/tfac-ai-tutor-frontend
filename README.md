@@ -1,9 +1,9 @@
 # Base44 App
 
 
-This app was created automatically by Base44.
+This app was created automatically by me and Base44.
 It's a Vite+React app that communicates with the Base44 API.
-
+Special thanks to : OpenAPI, Perplexity and others.
 ## Running the app
 
 ```bash
